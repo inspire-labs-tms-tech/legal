@@ -14,6 +14,10 @@ As used herein:
 
 - The **Parties** or **parties** to this EULA are you and Inspire Labs. 
 
+## Construction
+
+The terms of this EULA shall be construed in accordinace with the laws of the State of Indiana and of the United States of America. None of the terms contained in this EULA shall be construed to conflict with law, statute, or other governmental rule, regulation, or policy. If any part of this EULA is found to conflict with law, statute, or other governmental rule, regulation, or policy, and thus be null and void, the remainder of this EULA that is not so found in conflict shall continue to survive.
+
 ## License
 
 We grant you a revocable, non-transferable, non-exclusive, non-sublicensable, revocable, limited license to download, install, and use Inspire TMS strictly in accordance with the terms of this EULA. You use of Inspire TMS is expressly conditioned upon your agreement to all of the terms of this EULA. If you do not agree with any of the terms of this EULA, you are not permitted to use Inspire TMS. 
@@ -62,7 +66,7 @@ While using Inspire TMS, you shall not:
 
 You agree that we shall not, under any circumstances or in any event whatsoever, have any liability for any reason and arising out of any event from your use of Inspire TMS. We shall not be liable or deemed in breach of this EULA for any failure to perform or delay in performing any of our obligations due to or arising out of any act which are not within our control, including, but not limited to, fire, flood, earthquake, power failure, power outage, network attacks by third parties, or other acts of God. We in no way guarantee complete and full access for the duration of the license, including for reasons due to the aforementioned events or other traffic on Inspire TMS.
 
-In the event that we are found to have liability not covered by the aforementioned waiver, you agree to limit any and all of our liability, for any reason and arising out of any event, to the total amount you personally paid to access Inspire TMS. If you did not nor have never paid to access Inspire TMS, you agree that you waive all of our liabilities whatsoever and assume yourself all liabilities that arise from your use of Inspire TMS. 
+In the event that we are found to have liability not covered by the aforementioned waiver, you agree to limit any and all of our liability, for any reason and arising out of any event, to the total amount you personally paid to access Inspire TMS. If you did not nor have ever paid to access Inspire TMS, you agree that you waive all of our liabilities whatsoever and assume yourself all liabilities that arise from your use of Inspire TMS. 
 
 ## Warranties
 
@@ -75,3 +79,7 @@ YOU EXPRESSLY UNDERSTAND AND AGREE THAT WE SHALL NOT BE LIABLE FOR ANY DIRECT, I
 We will not knowingly sell your data to any non-party to this agreement at any time nor for any reason. We take steps to reasonably safeguard any and all data collected, obtained, created, maintained, or otherwise stored during your use of Inspire TMS. However, you agree that it is physically impossible for us to create a service which cannot be accessible by malicious or bad-faith third parties, and as such agree that we shall not, under any circumstances or in any event whatsoever, have any liability for any loss, breach, theft, or otherwise unauthorized access to, or disclosure of, any data collected, obtained, created, maintained, or otherwise stored using Inspire TMS. 
 
 At any time, if you become aware of a data-security vulnerability in Inspire TMS, you must report it to us promptly. Additionally, you agree to not publish, disclose, or otherwise make available to any other entity the details of this vulnerability, including its existence or details of its reproducability, without our express and explicit permission.
+
+## Addendums
+
+In addition to this EULA, we reserve the right to publish, create, or otherwise enact additional terms and conditions in addition to those contained herein, which shall constitute an extension of this EULA and be incorporated herein. We shall publish the links to any additional policies below or provide them only to End-Users to whom those additional terms and conditions may apply. We reserve the right to modify any and all of this EULA at any time, without any prior notice to you. 
